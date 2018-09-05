@@ -1,6 +1,8 @@
 # Spring-Boot-Oracle-JdbcTemplate-CRUD
 
-Spring JdbcTemplate CRUD Web Application using Spring Boot, Bootstrap 4 and Oracle
+I show you how to develop and Bootstrap a Spring Boot CRUD Web Application with Spring Boot JDBC, Oracle Database and Webjars Bootstrap 4. This Web Application can display the list of employee, create, edit, update and delete it.
+
+Follow the steps mentioned below to develop the CRUD Web Application.
 
 Technologies Used
 ---
