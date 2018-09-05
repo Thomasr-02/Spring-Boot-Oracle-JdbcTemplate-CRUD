@@ -1,8 +1,14 @@
 # Spring-Boot-Oracle-JdbcTemplate-CRUD
 Spring JdbcTemplate CRUD Web Application using Spring Boot, Bootstrap 4 and Oracle
 
+Add New Employee
+---
 ![addemp](https://user-images.githubusercontent.com/33669266/45081888-ccddbb80-b100-11e8-9e26-ce6b700d7b66.PNG)
 
+
+Employee List
+---
+![listemp](https://user-images.githubusercontent.com/33669266/45081922-e848c680-b100-11e8-8038-19b951dba90f.PNG)
 
 Technologies Used
 ---
