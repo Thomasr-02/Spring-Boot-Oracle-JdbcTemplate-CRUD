@@ -1,7 +1,8 @@
 # Spring-Boot-Oracle-JdbcTemplate-CRUD
 Spring JdbcTemplate CRUD Web Application using Spring Boot, Bootstrap 4 and Oracle
 
-<iframe src="https://giphy.com/embed/9Y1wLntYPT38grnPa8" width="480" height="256" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9Y1wLntYPT38grnPa8">via GIPHY</a></p>
+<a href="https://imgflip.com/gif/2h8p0w"><img src="https://i.imgflip.com/2h8p0w.gif" title="made at imgflip.com"/></a>
+
 Technologies Used
 ---
 * Eclipse Oxygen and Install Spring Tool Suite for Eclipse IDE
