@@ -1,26 +1,16 @@
 # Spring-Boot-Oracle-JdbcTemplate-CRUD
 Spring JdbcTemplate CRUD Web Application using Spring Boot, Bootstrap 4 and Oracle
 
-Add New Employee
----
-![addemp](https://user-images.githubusercontent.com/33669266/45081888-ccddbb80-b100-11e8-9e26-ce6b700d7b66.PNG)
-
-
-Employee List
----
-![listemp](https://user-images.githubusercontent.com/33669266/45081922-e848c680-b100-11e8-8038-19b951dba90f.PNG)
-
 Technologies Used
 ---
 * Eclipse Oxygen and Install Spring Tool Suite for Eclipse IDE
-* Spring Boot 2.1.0.BUILD-SNAPSHOT
+* Spring Boot 2.0.4.BUILD-SNAPSHOT
 * spring-boot-starter-jdbc
 * spring-boot-starter-web
 * spring-boot-devtools
 * JSTL - JSP Standard Tag Library
 * tomcat-embed-jasper
 * Oracle Jdbc Driver
- https://mvnrepository.com/artifact/oracle/ojdbc6/11.2.0.3
 * Bootstrap 4
 * Java 8
 
@@ -114,8 +104,8 @@ spring.mvc.view.suffix=.jsp
  ```  
 View Layer
 ---
-* Create jsp folder under src\main\webapp\WEB-INF\ folder.
-* Create `employee_list.jsp` and `employee_form.jsp` file under src\main\webapp\WEB-INF\jsp\ folder and write the code it.
+* Create `jsp` folder under `src\main\webapp\WEB-INF\` folder.
+* Create `employee_list.jsp` and `employee_form.jsp` file under `src\main\webapp\WEB-INF\jsp\` folder and write the code it.
 
 Run Spring Boot Application
 ---
@@ -123,4 +113,15 @@ Right click to the Project and follow the below steps:
 * select Run As -> Maven clean
 * select Run As -> Maven install
 * select Run As -> Spring Boot App
- 
+
+Oracle JDBC Driver
+---
+* https://mvnrepository.com/artifact/oracle/ojdbc6/11.2.0.3
+
+Employee List
+---
+![listemp](https://user-images.githubusercontent.com/33669266/45081922-e848c680-b100-11e8-8038-19b951dba90f.PNG)
+
+Add New Employee
+---
+![addemp](https://user-images.githubusercontent.com/33669266/45081888-ccddbb80-b100-11e8-9e26-ce6b700d7b66.PNG)
