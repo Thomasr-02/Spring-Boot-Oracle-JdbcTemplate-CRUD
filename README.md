@@ -136,10 +136,30 @@ Oracle JDBC Driver
 ---
 * https://mvnrepository.com/artifact/oracle/ojdbc6/11.2.0.3
 
-Employee List
+*Employee List
 ---
+
+* Type the following URLs in browser's address bar to open the Employee List page. 
+
+> http://localhost:8080/employee/list
+    
 ![listemp](https://user-images.githubusercontent.com/33669266/45081922-e848c680-b100-11e8-8038-19b951dba90f.PNG)
 
-Add New Employee
+*Add New Employee
 ---
+
+* Type the following URLs in browser's address bar to open the Add New Employee page. 
+
+> http://localhost:8080/employee/add
+
 ![addemp](https://user-images.githubusercontent.com/33669266/45081888-ccddbb80-b100-11e8-9e26-ce6b700d7b66.PNG)
+
+*Update Employee
+---
+
+* Type the following URLs in browser's address bar to open the Update Employee page.    
+
+> http://localhost:8080/employee/update/{id}
+
+![updateemp](https://user-images.githubusercontent.com/33669266/45082399-e92e2800-b101-11e8-98bb-1d1eb9e81293.PNG)
+
